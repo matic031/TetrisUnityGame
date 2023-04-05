@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929018487204",
+    "firebase_url": "https://tetrisunity-beb1c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tetrisunity-beb1c",
+    "storage_bucket": "tetrisunity-beb1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929018487204:android:c780a3fd2a192d1413e131",
+        "android_client_info": {
+          "package_name": "com.sola.tetris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929018487204-t5bkjk2or5eustiqsmolhls4eq571hv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnZEJedCZ2Eu4C14eIa-D39D91IXBwOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929018487204-t5bkjk2or5eustiqsmolhls4eq571hv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
