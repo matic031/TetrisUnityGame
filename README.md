@@ -1,2 +1,2 @@
 # TetrisUnityGame
- Tetris game made in Unity game endgine, with a scorebaord and login using Firebase
+ Tetris game made in Unity, with a scoreboard and login system using Firebase
